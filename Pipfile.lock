@@ -25,11 +25,11 @@
         },
         "pyspark": {
             "hashes": [
-                "sha256:d41a9b76bd2aca370a6100d075c029e22ba44c5940927877e9435a3a9c566558"
+                "sha256:bbb36eba09fa24e86e0923d7e7a986041b90c714e11c6aa976f9791fe9edde5e"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==3.5.0"
+            "version": "==3.5.2"
         }
     },
     "develop": {}
